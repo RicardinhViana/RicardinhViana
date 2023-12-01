@@ -1,6 +1,6 @@
 
 
-# Olá, sou o Ricardo Viana ✋🏽
+# Olá, sou o Ricardo Viana
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-eeedf0?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/ricardovianaaa/)
 [![instagram](https://img.shields.io/badge/Instagram-eeedf0?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/ricardinho_viana/)
